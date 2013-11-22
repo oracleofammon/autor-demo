@@ -1,0 +1,16 @@
+{
+	"name": "autor-demo", 
+	"version": "0.0.1", 
+	"description": "Simple demo of Autor functionality", 
+	"main": "web.js", 
+	"scripts": {
+		   "test": "echo \"Error: no test specified\" && exit 1"
+		   }, 
+        "dependencies": {
+		    "express": "~3.3.4"
+		   }, 
+         "engines": { 
+	 	    "node": "0.10.12", 
+		    "npm": "1.2.30"
+		    }
+		}  
